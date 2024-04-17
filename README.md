@@ -1,7 +1,8 @@
  <img src="HOD.png" align="Center" alt="Hands On Data" style="height: 180px; width:260px;"/>
 
 
-# ETL with Python
+# ETL with Python 
+# Web Data, filtering, dropping columns, formatting and creating functions
 
 ## Data Source: https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/series-historicas/
 
